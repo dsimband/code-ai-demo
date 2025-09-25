@@ -1,0 +1,25 @@
+{
+  "hash": "20b32206",
+  "configHash": "8546a0ab",
+  "lockfileHash": "5a470323",
+  "browserHash": "857a5455",
+  "optimized": {
+    "sentiment": {
+      "src": "../../node_modules/sentiment/lib/index.js",
+      "file": "sentiment.js",
+      "fileHash": "e3f86cc0",
+      "needsInterop": true
+    },
+    "chart.js": {
+      "src": "../../node_modules/chart.js/dist/chart.js",
+      "file": "chart__js.js",
+      "fileHash": "3c4a08e6",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-R6VVRM3V": {
+      "file": "chunk-R6VVRM3V.js"
+    }
+  }
+}
